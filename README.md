@@ -17,7 +17,7 @@ Clone this repository to your local machine.
 Navigate to the respective code file (ANN.ipynb or CNN.ipynb).
 
 ## Dataset
-The GTZAN Music Dataset used in these codes is available here :https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification?resource=download
+The GTZAN Music Dataset used in these codes is available here: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification?resource=download
 
 
 ## Contributions
