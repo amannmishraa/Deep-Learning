@@ -12,3 +12,4 @@ Dataset used here is GTZAN dataset
 You can download the dataset from kaggle : https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification?resource=download
 
 User just needs to download the dataset and have to specify the path 
+Contributors are welcome to made changes in the code
